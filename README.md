@@ -5,7 +5,7 @@
 - 💬 Ask me about **Python,C,C++,Java**
 - 📫 Connect here **dhinesh145cs@gmail.com**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw 
 ### Connect with me:
 [<img align="left" alt="Dhinu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
