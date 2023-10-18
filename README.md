@@ -1,6 +1,6 @@
 # Hi there, I'm Dhineshkumar 👋 
-### I'm a  Engineering student,Developer !!
-- 🌱 I’m currently learning everything 🤣
+### I'm a Software developer!!
+- 🌱 I’m currently learning MERN Stack
 - 🎓 Pursuing Computer Science and Engineering
 - 💬 Ask me about **Python,C,C++,Java**
 - 📫 Connect here **dhinesh145cs@gmail.com**
