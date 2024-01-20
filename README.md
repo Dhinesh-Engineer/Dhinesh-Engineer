@@ -1,9 +1,23 @@
-<h1 align="center">Greetings! 🚀 I'm DhineshKumar </h1>
-<h3 align="center">An Enthusiastic Developer </h3>
-
-<p align="left"> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dhineshkumar-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:dhinesh145cs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Dhinesh-Engineer">
+    <img src="https://img.shields.io/github/stars/Dhinesh-Engineer?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars Badge"/>
+  </a>
+</div>
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Dhinesh-Engineer&label=Profile%20views&color=0e75b6&style=flat" alt="Dhinesh-Engineer" />
 </p>
+
+<h1 align="center"> 💻 I'm DhineshKumar 💻 </h1>
+<h3 align="center">An Enthusiastic Developer </h3>
 
 - 🌱 Currently cultivating skills in the MERN Stack
 - 💬 Love discussing **Python, C, C++, Java**, and the beautiful synergy of code and art
