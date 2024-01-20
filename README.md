@@ -37,13 +37,13 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhinesh-Engineer&show_icons=true&locale=en&layout=compact" alt="Dhinesh-Engineer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Engineer&layout=compact"/>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Engineer&show_icons=true&locale=en" alt="Dhinesh-Engineer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Engineer&rank_icon=github"/>
 </p>
 
 <br />
