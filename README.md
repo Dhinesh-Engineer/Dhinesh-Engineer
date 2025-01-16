@@ -23,7 +23,7 @@
 - 💬 Love discussing **Python, C, C++, Java**, and the beautiful synergy of code and art
 - 📫 Reach me at **dhinesh145cs@gmail.com**
 - 👯 On the lookout for collaborations with fellow artists and tech enthusiasts
-- 🥅 2024 Ambition: Weave more innovation into the Open Source tapestry
+- 🥅 2025 Ambition: Weave more innovation into the Open Source tapestry
 - ⚡ Fun fact: I bring ideas to life not just in code but also on canvas!
 
 ### Connect with me:
